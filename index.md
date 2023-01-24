@@ -11,9 +11,8 @@ I am interested in exploring structures from text, especially for Automatic Fact
 ## Connection
 Feel free to contact me if your research lies within these or related areas!
 
-[GITHUB](https://github.com/jasenchn)
+[Email](jasensi@163.com) [GITHUB](https://github.com/jasenchn)
 
-[Email](jasensi@163.com)
 
 ## Publications
 
