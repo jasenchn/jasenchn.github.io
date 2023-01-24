@@ -23,8 +23,8 @@ I am interested in exploring structures from text, especially for Automatic Fact
   
   **AAAI 2023**, *Oral Presentation*
   
-  [[Paper]]([([https://arxiv.org/abs/2212.01060](https://arxiv.org/abs/2212.01060))](https://arxiv.org/abs/2212.01060)) 
- - **Biomedical Argument Mining Based on Sequential Multi-Task Learning**
+  [[Paper]]([([https://arxiv.org/abs/2212.01060](https://arxiv.org/abs/2212.01060))](https://arxiv.org/abs/2212.01060))
+- **Biomedical Argument Mining Based on Sequential Multi-Task Learning**
 
   **Jiasheng Si<sub>*</sub>**, Liu Sun<sub>*</sub>, Deyu Zhou, Jie Ren, Lin Li
   
