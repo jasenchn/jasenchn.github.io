@@ -4,7 +4,7 @@ layout: default
 
 
 ## About
-Hi! My name is Jiasheng Si (司加胜). I am a PHD candidate at the [PALM lab]([[https://www.trin.cam.ac.uk/](http://palm.seu.edu.cn/)]) at Southeast University, supervised by Prof.[Deyu Zhou](http://palm.seu.edu.cn/zhoudeyu/Home.html).
+Hi! My name is Jiasheng Si (司加胜). I am a PHD candidate at the [PALM lab](http://palm.seu.edu.cn/) at Southeast University, supervised by Prof.[Deyu Zhou](http://palm.seu.edu.cn/zhoudeyu/Home.html).
 
 I am interested in exploring structures from text, especially for Automatic Fact Verification and Argument Mining.
 
