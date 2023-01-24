@@ -28,7 +28,7 @@ I am interested in exploring structures from text, especially for Automatic Fact
 
   **Jiasheng Si<sub>*</sub>**, Liu Sun<sub>*</sub>, Deyu Zhou, Jie Ren, Lin Li
   
-  **TCBB 2022**
+  **IEEE/ACM Transactions on Computational Biology and Bioinformatics 2022** 
 
 - **Topic-aware evidence reasoning and stance-aware aggregation for fact verification**
 
