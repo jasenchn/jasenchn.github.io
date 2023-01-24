@@ -25,12 +25,13 @@ Feel free to contact me if your research lies within these or related areas!
   **AAAI 2023**, *Oral Presentation*
   
   [[Paper]]([([https://arxiv.org/abs/2212.01060](https://arxiv.org/abs/2212.01060))](https://arxiv.org/abs/2212.01060))
-  ---
+---
 - **Biomedical Argument Mining Based on Sequential Multi-Task Learning**
 
   **Jiasheng Si<sub>*</sub>**, Liu Sun<sub>*</sub>, Deyu Zhou, Jie Ren, Lin Li
   
   **IEEE/ACM Transactions on Computational Biology and Bioinformatics 2022** 
+---
 
 - **Topic-aware evidence reasoning and stance-aware aggregation for fact verification**
 
@@ -39,6 +40,7 @@ Feel free to contact me if your research lies within these or related areas!
   **ACL 2021**
   
   [[Paper]]([https://arxiv.org/abs/2106.01191]) 
+---
   
 - **Unsupervised latent event representation learning and storyline extraction from news articles based on neural networks**
 
