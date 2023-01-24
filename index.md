@@ -10,7 +10,7 @@ I am interested in exploring structures from text, especially for Automatic Fact
 
 **Feel free to contact me if your research lies within these or related areas!**
 
-[GITHUB](https://jasenchn.github.com)
+[GITHUB](https://github.com/jasenchn)
 
 
 ## Publications
