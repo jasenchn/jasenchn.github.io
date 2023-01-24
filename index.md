@@ -22,7 +22,7 @@ Feel free to contact me if your research lies within these or related areas!
 
   **Jiasheng Si**, Yingjie Zhu, Deyu Zhou
   
-  **AAAI 2023**, *Oral Presentation*
+  **AAAI**(2023), *Oral Presentation*
   
  ---
  
@@ -30,7 +30,7 @@ Feel free to contact me if your research lies within these or related areas!
 
   **Jiasheng Si<sub>*</sub>**, Liu Sun<sub>*</sub>, Deyu Zhou, Jie Ren, Lin Li
   
-  **IEEE/ACM Transactions on Computational Biology and Bioinformatics 2022** 
+  **IEEE/ACM Transactions on Computational Biology and Bioinformatics**(2022) 
   
  ---
 
@@ -38,7 +38,7 @@ Feel free to contact me if your research lies within these or related areas!
 
   **Jiasheng Si**, Deyu Zhou, Tongzhe Li, Xingyu Shi, Yulan He
   
-  **ACL 2021**
+  **ACL**(2021)
   
 ---
   
@@ -46,7 +46,7 @@ Feel free to contact me if your research lies within these or related areas!
 
   **Jiasheng Si**, Linsen Guo, Deyu Zhou
   
-  **Intelligent Data Analysis**
+  **Intelligent Data Analysis**(2020)
   
   
   
