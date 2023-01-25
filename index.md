@@ -9,12 +9,14 @@ Hi! My name is Jiasheng Si (司加胜). I am a PHD candidate at the [PALM lab](h
 I am interested in exploring structures from text, especially for Automatic Fact Verification and Argument Mining.
 
 ---
+---
 
 ## Connection
 Feel free to contact me if your research lies within these or related areas!
 
 **Email**:jasensi@163.com, [GITHUB](https://github.com/jasenchn)
 
+---
 ---
 
 
@@ -53,6 +55,7 @@ Feel free to contact me if your research lies within these or related areas!
   **Intelligent Data Analysis**(2020)
 
 ---
+---
   
   
 ## Education
@@ -68,6 +71,7 @@ Feel free to contact me if your research lies within these or related areas!
 - **Northeastern University**, 2011-2015
     
 ---    
+---
 
 ## Academic Services
 - **Program Committee**: ACL/EMNLP/AAAI/ICASP
