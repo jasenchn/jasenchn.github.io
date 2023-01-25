@@ -19,16 +19,16 @@ Feel free to contact me if your research lies within these or related areas!
 
 <sup>*</sup> denotes equal contribution.
 
-- **Jiasheng Si**, Yingjie Zhu, Deyu Zhou. Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning. **AAAI** (2023), *Oral Presentation*.
+- **Jiasheng Si**, Yingjie Zhu, Deyu Zhou. Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning. 2023, **AAAI**, *Oral Presentation*.
   
  
-- **Jiasheng Si<sub>*</sub>**, Liu Sun<sub>*</sub>, Deyu Zhou, Jie Ren, Lin Li. Biomedical Argument Mining Based on Sequential Multi-Task Learning. **IEEE/ACM Transactions on Computational Biology and Bioinformatics** (2022) 
+- **Jiasheng Si<sub>*</sub>**, Liu Sun<sub>*</sub>, Deyu Zhou, Jie Ren, Lin Li. Biomedical Argument Mining Based on Sequential Multi-Task Learning. 2022, **IEEE/ACM Transactions on Computational Biology and Bioinformatics**.
   
 
-- **Jiasheng Si**, Deyu Zhou, Tongzhe Li, Xingyu Shi, Yulan He. Topic-aware evidence reasoning and stance-aware aggregation for fact verification. **ACL** (2021)
+- **Jiasheng Si**, Deyu Zhou, Tongzhe Li, Xingyu Shi, Yulan He. Topic-aware evidence reasoning and stance-aware aggregation for fact verification. 2021, **ACL**. 
   
 
-- **Jiasheng Si**, Linsen Guo, Deyu Zhou. Unsupervised latent event representation learning and storyline extraction from news articles based on neural networks. **Intelligent Data Analysis** (2020)
+- **Jiasheng Si**, Linsen Guo, Deyu Zhou. Unsupervised latent event representation learning and storyline extraction from news articles based on neural networks. 2021, **Intelligent Data Analysis**.
   
   
   
