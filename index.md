@@ -30,11 +30,11 @@ I am interested in exploring structures from text, especially for the task: Auto
   
 - **Southeast University**, 2018-until now
   
-  Computer Science, *Advisor: Prof. Deyu Zhou*
+  Computer Science
   
 - **Hefei University of Technology**, 2015-2018
     
-  Pattern Recognification and Intelligent Systems, *Advisor: Prof. Hao Tang*
+  Pattern Recognification and Intelligent Systems
   
 - **Northeastern University**, 2011-2015
     
