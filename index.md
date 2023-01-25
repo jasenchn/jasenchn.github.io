@@ -8,55 +8,38 @@ Hi! My name is Jiasheng Si (司加胜). I am a PHD candidate at the [PALM lab](h
 
 I am interested in exploring structures from text, especially for the task: Automatic Fact Verification and Argument Mining.
 
----
----
 
 ## Connection
 Feel free to contact me if your research lies within these or related areas!
 
-**Email**:jasensi@163.com, [GITHUB](https://github.com/jasenchn)
-
----
----
+[Email](jasensi@163.com), [GITHUB](https://github.com/jasenchn)
 
 
 ## Publications
 
 <sup>*</sup> denotes equal contribution.
 
-- **Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning**
-
-  **Jiasheng Si**, Yingjie Zhu, Deyu Zhou
+- **Jiasheng Si**, Yingjie Zhu, Deyu Zhou. **Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning**
   
-  **AAAI**(2023), *Oral Presentation*
+  **AAAI** (2023), *Oral Presentation*
   
- ---
  
-- **Biomedical Argument Mining Based on Sequential Multi-Task Learning**
+- **Jiasheng Si<sub>*</sub>**, Liu Sun<sub>*</sub>, Deyu Zhou, Jie Ren, Lin Li. **Biomedical Argument Mining Based on Sequential Multi-Task Learning**
+  
+  **IEEE/ACM Transactions on Computational Biology and Bioinformatics** (2022) 
+  
+ 
 
-  **Jiasheng Si<sub>*</sub>**, Liu Sun<sub>*</sub>, Deyu Zhou, Jie Ren, Lin Li
+- **Jiasheng Si**, Deyu Zhou, Tongzhe Li, Xingyu Shi, Yulan He. **Topic-aware evidence reasoning and stance-aware aggregation for fact verification**
   
-  **IEEE/ACM Transactions on Computational Biology and Bioinformatics**(2022) 
+  **ACL** (2021)
   
- ---
 
-- **Topic-aware evidence reasoning and stance-aware aggregation for fact verification**
+- **Jiasheng Si**, Linsen Guo, Deyu Zhou. **Unsupervised latent event representation learning and storyline extraction from news articles based on neural networks**
+  
+  **Intelligent Data Analysis** (2020)
 
-  **Jiasheng Si**, Deyu Zhou, Tongzhe Li, Xingyu Shi, Yulan He
-  
-  **ACL**(2021)
-  
----
-  
-- **Unsupervised latent event representation learning and storyline extraction from news articles based on neural networks**
 
-  **Jiasheng Si**, Linsen Guo, Deyu Zhou
-  
-  **Intelligent Data Analysis**(2020)
-
----
----
-  
   
 ## Education
   
@@ -70,8 +53,7 @@ Feel free to contact me if your research lies within these or related areas!
   
 - **Northeastern University**, 2011-2015
     
----    
----
+
 
 ## Academic Services
 - **Program Committee**: ACL/EMNLP/AAAI/ICASP
