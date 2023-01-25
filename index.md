@@ -16,13 +16,13 @@ I am interested in exploring structures from text, especially for the task: Auto
 - **Jiasheng Si**, Yingjie Zhu, Deyu Zhou. Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning. 2023, **AAAI**, *Oral Presentation*.
   
  
-- **Jiasheng Si<sub>*</sub>**, Liu Sun<sub>*</sub>, Deyu Zhou, Jie Ren, Lin Li. Biomedical Argument Mining Based on Sequential Multi-Task Learning. 2022, **IEEE/ACM Transactions on Computational Biology and Bioinformatics**.
+- **Jiasheng Si<sub>*</sub>**, Liu Sun<sub>*</sub>, Deyu Zhou, Jie Ren, Lin Li. Biomedical Argument Mining Based on Sequential Multi-Task Learning. 2022, **TCBB**.
   
 
 - **Jiasheng Si**, Deyu Zhou, Tongzhe Li, Xingyu Shi, Yulan He. Topic-aware evidence reasoning and stance-aware aggregation for fact verification. 2021, **ACL**. 
   
 
-- **Jiasheng Si**, Linsen Guo, Deyu Zhou. Unsupervised latent event representation learning and storyline extraction from news articles based on neural networks. 2021, **Intelligent Data Analysis**.
+- **Jiasheng Si**, Linsen Guo, Deyu Zhou. Unsupervised latent event representation learning and storyline extraction from news articles based on neural networks. 2021, **IDA**.
   
   
   
