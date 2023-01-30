@@ -41,7 +41,7 @@ I am interested in exploring structures from text, especially for the task: Auto
 
 
 ## Academic Services
-- **Program Committee**: ACL/EMNLP/AAAI/ICASP
+- **Program Committee**: ACL/EMNLP/AAAI/ICASSP
 
 
 ## Connection
