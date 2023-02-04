@@ -12,6 +12,17 @@ I am interested in exploring structures from text, especially for the task: Auto
 ## Publications
 
 <sup>*</sup> denotes equal contribution.
+[comment]: <> (AAAI)
+<div class="paper">
+<p><strong>Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning</strong>
+<br />
+<strong>Jiasheng Si</strong>, Yingjie Zhu, Deyu Zhou
+<br />
+<em>AAAI Conference on Artificial Intelligence.<strong><i style="color:#1e90ff">AAAI 2023</i></strong>.</em>
+<br /> 
+<br/>
+</p>
+</div>
 
 - **Jiasheng Si**, Yingjie Zhu, Deyu Zhou. Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning. **AAAI (2023)**, *Oral*.
   
