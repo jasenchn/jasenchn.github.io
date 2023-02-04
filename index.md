@@ -13,7 +13,7 @@ I am interested in NLP, especially deep learning.
 In the past and future few years,
 I will focux on the following topics:
 - **Explainable Fact Verification**
-- **Argument Mining*
+- **Argument Mining**
 
 
 ## Publications
@@ -64,20 +64,6 @@ I will focux on the following topics:
 <br/>
 </p>
 </div>
-  
-  
-  
-## Education
-  
-- **Southeast University**, 2018-until now
-  
-  Computer Science
-  
-- **Hefei University of Technology**, 2015-2018
-    
-  Pattern Recognification and Intelligent Systems
-  
-- **Northeastern University**, 2011-2015
     
 
 
