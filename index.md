@@ -9,9 +9,9 @@ I got my B.S. degree from Northeastern University,
 M.S. degree from Hefei University of Technology supervised by Prof. Hao Tang.
 
 ## Research Interests
-I am interested in NLP, especially deep learning.
+I am interested in NLP, especially with Graph Neural Networks.
 In the past and future few years,
-I will focux on the following topics:
+I will focus on the following topics:
 - **Explainable Fact Verification**
 - **Argument Mining**
 
