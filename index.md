@@ -10,9 +10,9 @@ I am interested in exploring structures from text, especially for the task: Auto
 
 
 ## Publications
-
 <sup>*</sup> denotes equal contribution.
-[comment]: <> (AAAI)
+
+[comment]: <> (AAAI2023)
 <div class="paper">
 <p><strong>Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning</strong>
 <br />
@@ -25,7 +25,7 @@ I am interested in exploring structures from text, especially for the task: Auto
 </p>
 </div>
 
-[comment]: <> (TCBB)
+[comment]: <> (TCBB2022)
 <div class="paper">
 <p><strong>Biomedical Argument Mining Based on Sequential Multi-Task Learning</strong>
 <br />
@@ -36,7 +36,16 @@ I am interested in exploring structures from text, especially for the task: Auto
 </p>
 </div>
 
-
+[comment]: <> (ACL2021)
+<div class="paper">
+<p><strong>Topic-aware evidence reasoning and stance-aware aggregation for fact verification</strong>
+<br />
+<strong>Jiasheng Si</strong>, Deyu Zhou, Tongzhe Li, Xingyu Shi, Yulan He
+<br />
+<em>Annual Meeting of the Association for Computational Linguistics. <strong><i style="color:#1e90ff">ACL 2021</i></strong>.</em>
+<br/>
+</p>
+</div>
 
 - **Jiasheng Si**, Yingjie Zhu, Deyu Zhou. Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning. **AAAI (2023)**, *Oral*.
   
