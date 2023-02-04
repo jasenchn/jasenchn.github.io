@@ -45,7 +45,7 @@ I will focus on the following topics:
 
 [comment]: <> (ACL2021)
 <div class="paper">
-<p><strong>Topic-aware evidence reasoning and stance-aware aggregation for fact verification</strong>
+<p><strong>Topic-Aware Evidence Reasoning and Stance-Aware Aggregation for Fact Verification</strong>
 <br />
 <strong>Jiasheng Si</strong>, Deyu Zhou, Tongzhe Li, Xingyu Shi, Yulan He
 <br />
@@ -56,7 +56,7 @@ I will focus on the following topics:
 
 [comment]: <> (IDA2021)
 <div class="paper">
-<p><strong>Unsupervised latent event representation learning and storyline extraction from news articles based on neural networks</strong>
+<p><strong>Unsupervised Latent Event Representation Learning and Storyline Extraction from News Articles Based on Neural Networks</strong>
 <br />
 <strong>Jiasheng Si</strong>, Linsen Guo, Deyu Zhou
 <br />
