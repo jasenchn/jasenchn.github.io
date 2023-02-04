@@ -47,16 +47,16 @@ I am interested in exploring structures from text, especially for the task: Auto
 </p>
 </div>
 
-- **Jiasheng Si**, Yingjie Zhu, Deyu Zhou. Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning. **AAAI (2023)**, *Oral*.
-  
- 
-- **Jiasheng Si<sub>*</sub>**, Liu Sun<sub>*</sub>, Deyu Zhou, Jie Ren, Lin Li. Biomedical Argument Mining Based on Sequential Multi-Task Learning. **TCBB (2022)**.
-  
-
-- **Jiasheng Si**, Deyu Zhou, Tongzhe Li, Xingyu Shi, Yulan He. Topic-aware evidence reasoning and stance-aware aggregation for fact verification. **ACL (2021)**. 
-  
-
-- **Jiasheng Si**, Linsen Guo, Deyu Zhou. Unsupervised latent event representation learning and storyline extraction from news articles based on neural networks.  **IDA (2021)**.
+[comment]: <> (IDA2021)
+<div class="paper">
+<p><strong>Unsupervised latent event representation learning and storyline extraction from news articles based on neural networks</strong>
+<br />
+<strong>Jiasheng Si</strong>, Linsen Guo, Deyu Zhou
+<br />
+<em>Intelligent Data Analysis. <strong><i style="color:#1e90ff">IDA</i></strong>.</em>
+<br/>
+</p>
+</div>
   
   
   
