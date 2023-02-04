@@ -3,12 +3,17 @@ layout: default
 ---
 
 
-## About
-Hi! My name is Jiasheng Si (司加胜). I am a Ph.D. candidate at the [PALM lab](http://palm.seu.edu.cn/) at Southeast University (SEU), China. Supervised by Prof.[Deyu Zhou](http://palm.seu.edu.cn/zhoudeyu/Home.html).
+## About Me
+Hi! My name is Jiasheng Si (司加胜). I am a Ph.D. candidate at the [PALM lab](http://palm.seu.edu.cn/) at Southeast University (SEU) Supervised by Prof.[Deyu Zhou](http://palm.seu.edu.cn/zhoudeyu/Home.html).
 I got my B.S. degree from Northeastern University, 
 M.S. degree from Hefei University of Technology supervised by Prof. Hao Tang.
 
-I am interested in exploring structures from text, especially for the task: Automatic Fact Verification and Argument Mining.
+## Research Interests
+I am interested in NLP, especially deep learning.
+In the past and future few years,
+I will focux on the following topics:
+- **Explainable Fact Verification**
+- **Argument Mining*
 
 
 ## Publications
