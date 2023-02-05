@@ -17,7 +17,7 @@ I will focus on the following topics:
 
 
 ## Publications
-<sup>*</sup> denotes equal contribution.
+<i style="color:#BD83AA"><sup>*</sup> denotes equal contribution.</i>
 
 [comment]: <> (AAAI2023)
 <div class="paper">
