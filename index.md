@@ -36,7 +36,7 @@ I will focus on the following topics:
 <div class="paper">
 <p><strong>Biomedical Argument Mining Based on Sequential Multi-Task Learning</strong>
 <br />
-<strong>Jiasheng Si</strong>, Liu Sun<sub>*</sub>, Deyu Zhou, Jie Ren, Lin Li
+<strong>Jiasheng Si</strong><sub>*</sub>, Liu Sun<sub>*</sub>, Deyu Zhou, Jie Ren, Lin Li
 <br />
 <em>IEEE/ACM Transactions on Computational Biology and Bioinformatics.<strong><i style="color:#1e90ff">TCBB</i></strong>.</em>
 <br/>
