@@ -12,7 +12,8 @@ M.S. degree from Hefei University of Technology supervised by Prof. Hao Tang.
 I am interested in NLP, especially with Graph Neural Networks.
 In the past and future few years,
 I will focus on the following topics:
-- Explainable Fact Verification
+- Fact Verification
+- Natural Language Explanation
 - Argument Mining
 
 
