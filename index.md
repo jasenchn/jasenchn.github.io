@@ -26,9 +26,7 @@ I will focus on the following topics:
 <br />
 <strong>Jiasheng Si</strong>, Yingjie Zhu, Deyu Zhou
 <br />
-<em>AAAI Conference on Artificial Intelligence.<strong><i style="color:#1e90ff">AAAI 2023</i></strong>.<strong><i style="color:#e74d3c">Oral Presentation</i></strong></em>
-<br /> 
-  <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
+<em>AAAI Conference on Artificial Intelligence.<strong><i style="color:#1e90ff">AAAI 2023</i></strong>. <strong>(<i style="color:#e74d3c">Oral Presentation</i>)</strong></em>
 <br/>
 </p>
 </div>
