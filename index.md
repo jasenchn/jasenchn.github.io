@@ -4,7 +4,7 @@ layout: default
 
 
 ## About Me
-Hi! My name is Jiasheng Si (司加胜). I am a Ph.D. candidate at the [PALM lab](http://palm.seu.edu.cn/) at Southeast University (SEU) Supervised by Prof.[Deyu Zhou](http://palm.seu.edu.cn/zhoudeyu/Home.html).
+Hi! My name is Jiasheng Si (司加胜). I am a Ph.D. candidate at the [PAttern Learning and Mining lab](http://palm.seu.edu.cn/) at Southeast University (SEU), China, supervised by Prof.[Deyu Zhou](http://palm.seu.edu.cn/zhoudeyu/Home.html).
 I got my B.S. degree from Northeastern University, 
 M.S. degree from Hefei University of Technology supervised by Prof. Hao Tang.
 
@@ -26,7 +26,7 @@ I will focus on the following topics:
 <br />
 <strong>Jiasheng Si</strong>, Yingjie Zhu, Deyu Zhou
 <br />
-<em>AAAI Conference on Artificial Intelligence.<strong><i style="color:#1e90ff">AAAI 2023</i></strong>.</em>
+<em>AAAI Conference on Artificial Intelligence.<strong><i style="color:#1e90ff">AAAI 2023</i></strong>.<strong><i style="color:#e74d3c">Oral Presentation</i></strong></em>
 <br /> 
   <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
 <br/>
