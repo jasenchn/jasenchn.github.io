@@ -73,4 +73,4 @@ I will focus on the following topics:
 ## Connection
 Feel free to contact me if your research lies within these or related areas!
 
-[Email](mailto:jasenchn@seu.edu.cn); [GITHUB](https://github.com/jasenchn); [GOOGLE-SCHOLAR]([https://github.com/jasenchn](https://scholar.google.com/citations?user=mla8MA4AAAAJ&hl=en))
+[Email](mailto:jasenchn@seu.edu.cn); [GITHUB](https://github.com/jasenchn); [GOOGLE-SCHOLAR](https://scholar.google.com/citations?user=mla8MA4AAAAJ&hl=en)
