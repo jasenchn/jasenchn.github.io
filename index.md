@@ -20,6 +20,17 @@ I will focus on the following topics:
 ## Publications
 <i style="color:#BD83AA"><sup>*</sup> denotes equal contribution.</i>
 
+[comment]: <> (EMNLP2023)
+<div class="paper">
+<p><strong>EXPLAIN, EDIT, GENERATE: Rationale-Sensitive Counterfactual Data Augmentation for Multi-hop Fact Verification</strong>
+<br />
+Yingjie Zhu<sub>*</sub>, <strong>Jiasheng Si</strong><sub>*</sub>, Yibo Zhao, Haiyang Zhu, Deyu Zhou, Yulan He
+<br />
+<em>The Conference on Empirical Methods in Natural Language Processing.<strong><i style="color:#1e90ff">EMNLP 2023</i></strong>.</em>
+<br/>
+</p>
+</div>
+
 [comment]: <> (AAAI2023)
 <div class="paper">
 <p><strong>Exploring Faithful Rationale for Multi-hop Fact Verification via Salience-Aware Graph Learning</strong>
