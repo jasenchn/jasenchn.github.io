@@ -26,7 +26,7 @@ I will focus on the following topics:
 <br />
 Yingjie Zhu<sub>*</sub>, <strong>Jiasheng Si</strong><sub>*</sub>, Yibo Zhao, Haiyang Zhu, Deyu Zhou, Yulan He
 <br />
-<em>The Conference on Empirical Methods in Natural Language Processing.<strong><i style="color:#1e90ff">EMNLP 2023</i></strong>.</em>
+<em>The Conference on Empirical Methods in Natural Language Processing.<strong><i style="color:#1e90ff">EMNLP 2023</i></strong>. <strong>(<i style="color:#e74d3c">Oral Presentation</i>)</strong></em>
 <br/>
 </p>
 </div>
