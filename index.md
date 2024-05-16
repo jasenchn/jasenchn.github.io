@@ -20,6 +20,17 @@ I will focus on the following topics:
 ## Publications
 <i style="color:#BD83AA"><sup>*</sup> denotes equal contribution.</i>
 
+[comment]: <> (ACL2024)
+<div class="paper">
+<p><strong>CHECKWHY: Causal Fact Verification via Argument Structure</strong>
+<br />
+Jiasheng Si<sub>*</sub>, <strong>Yibo Zhao</strong><sub>*</sub>, Yingjie Zhu, Haiyang Zhu, Wenpeng Lu, Deyu Zhou
+<br />
+<em>ACL.<strong><i style="color:#1e90ff">ACL 2024</i></strong>. 
+<br/>
+</p>
+</div>
+
 [comment]: <> (EMNLP2023)
 <div class="paper">
 <p><strong>EXPLAIN, EDIT, GENERATE: Rationale-Sensitive Counterfactual Data Augmentation for Multi-hop Fact Verification</strong>
