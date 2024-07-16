@@ -27,7 +27,7 @@ I will focus on the following topics:
 <br />
 <strong>Jiasheng Si<sub>*</sub></strong>, Yibo Zhao<sub>*</sub>, Yingjie Zhu, Haiyang Zhu, Wenpeng Lu, Deyu Zhou
 <br />
-<em>Annual Meeting of the Association for Computational Linguistics. <strong><i style="color:#1e90ff">ACL 2024</i></strong>.</em>
+<em>Annual Meeting of the Association for Computational Linguistics. <strong><i style="color:#1e90ff">ACL 2024</i></strong>. <strong>(<i style="color:#e74d3c">Oral Presentation</i>)</strong></em>
 <br/>
 </p>
 </div>
