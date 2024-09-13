@@ -70,6 +70,8 @@ Yingjie Zhu<sub>*</sub>, <strong>Jiasheng Si</strong><sub>*</sub>, Yibo Zhao, Ha
 <p><strong>Topic-Aware Evidence Reasoning and Stance-Aware Aggregation for Fact Verification</strong>
 <br />
 <strong>Jiasheng Si</strong>, Deyu Zhou, Tongzhe Li, Xingyu Shi, Yulan He
+
+
 <br />
 <em>Annual Meeting of the Association for Computational Linguistics. <strong><i style="color:#1e90ff">ACL 2021</i></strong>.</em>
 <br/>
@@ -96,4 +98,4 @@ Yingjie Zhu<sub>*</sub>, <strong>Jiasheng Si</strong><sub>*</sub>, Yibo Zhao, Ha
 ## Connection
 Feel free to contact me if your research lies within these or related areas!
 
-[Email](mailto:jasenchn@seu.edu.cn); [GITHUB](https://github.com/jasenchn); [GoogleScholar](https://scholar.google.com/citations?user=mla8MA4AAAAJ&hl=en)
+[Email](mailto:jiashengsi@qlu.edu.cn); [GITHUB](https://github.com/jasenchn); [GoogleScholar](https://scholar.google.com/citations?user=mla8MA4AAAAJ&hl=en)
