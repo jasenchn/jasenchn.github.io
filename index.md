@@ -20,6 +20,16 @@ I will focus on the following topics:
 ## Publications
 <i style="color:#BD83AA"><sup>*</sup> denotes equal contribution.</i>
 
+[comment]: <> (EMNLP2024)
+<div class="paper">
+<p><strong>Denoising Rationalization for Multi-hop Fact Verification via Multi-granular Explainer</strong>
+<br />
+<strong>Jiasheng Si</strong><sub>*</sub>, Yingjie Zhu<sub>*</sub>, Wenpeng Lu, Deyu Zhou
+<br />
+<em>The Conference on Empirical Methods in Natural Language Processing.<strong><i style="color:#1e90ff">EMNLP Findings 2024</i></strong>.</em>
+<br/>
+</p>
+</div>
 
 [comment]: <> (ACL2024)
 <div class="paper">
@@ -70,8 +80,6 @@ Yingjie Zhu<sub>*</sub>, <strong>Jiasheng Si</strong><sub>*</sub>, Yibo Zhao, Ha
 <p><strong>Topic-Aware Evidence Reasoning and Stance-Aware Aggregation for Fact Verification</strong>
 <br />
 <strong>Jiasheng Si</strong>, Deyu Zhou, Tongzhe Li, Xingyu Shi, Yulan He
-
-
 <br />
 <em>Annual Meeting of the Association for Computational Linguistics. <strong><i style="color:#1e90ff">ACL 2021</i></strong>.</em>
 <br/>
