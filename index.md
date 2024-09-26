@@ -100,7 +100,7 @@ Yingjie Zhu<sub>*</sub>, <strong>Jiasheng Si</strong><sub>*</sub>, Yibo Zhao, Ha
 
 
 ## Academic Services
-- **Program Committee**: ACL/EMNLP/AAAI/ICASSP
+- **Program Committee**: ACL ARR/AAAI/Coling/ICASSP
 
 
 ## Connection
