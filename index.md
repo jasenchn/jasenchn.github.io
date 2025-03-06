@@ -4,9 +4,10 @@ layout: default
 
 
 ## About Me
-Hi! My name is Jiasheng Si (司加胜). I am a Ph.D. candidate at the [PAttern Learning and Mining lab](http://palm.seu.edu.cn/) at Southeast University (SEU), China, supervised by Prof.[Deyu Zhou](http://palm.seu.edu.cn/zhoudeyu/Home.html).
+Hi! My name is Jiasheng Si. I am a Lecture at Qilu University of Technology since 2023.
 I got my B.S. degree from Northeastern University, 
-M.S. degree from Hefei University of Technology supervised by Prof. Hao Tang.
+M.S. degree from Hefei University of Technology supervised by Prof. Hao Tang,
+Ph.D. degree from the [PAttern Learning and Mining lab](http://palm.seu.edu.cn/) at Southeast University (SEU), China, supervised by Prof.[Deyu Zhou](http://palm.seu.edu.cn/zhoudeyu/Home.html).
 
 ## Research Interests
 I am interested in NLP, especially with Graph Neural Networks.
@@ -100,7 +101,7 @@ Yingjie Zhu<sub>*</sub>, <strong>Jiasheng Si</strong><sub>*</sub>, Yibo Zhao, Ha
 
 
 ## Academic Services
-- **Program Committee**: ACL ARR/AAAI/Coling/ICASSP
+- **Program Committee**: Area Chair of ACL ARR, Review of AAAI/KDD/WWW/COLING/ICASSP
 
 
 ## Connection
